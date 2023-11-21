@@ -1,6 +1,8 @@
-![](https://github-readme-stats.vercel.app/api?username=Berke-Ates&count_private=true&show_icons=true&theme=onedark)
-
-![](https://streak-stats.demolab.com/?user=Berke-Ates&theme=onedark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Berke-Ates&count_private=true&langs_count=5&theme=onedark)
-
+<div align="center">
+  <!-- GitHub stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Berke-Ates&show_icons=true&theme=onedark&count_private=true&card_width=370" />
+  <!-- Top languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berke-Ates&layout=compact&langs_count=6&theme=onedark&card_width=370" />
+  <!-- GitHub streak -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Berke-Ates&theme=onedark&card_width=435" />
+</div>
