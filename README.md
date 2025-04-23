@@ -4,5 +4,5 @@
   <!-- Top languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berke-Ates&layout=compact&langs_count=6&theme=onedark&card_width=370" />
   <!-- GitHub streak -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Berke-Ates&theme=onedark&card_width=435" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Berke-Ates&theme=onedark&card_width=435" />
 </div>
