@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Berke Ates' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  : 13886, Total PRs: 119, Total PRs Merged: 103, Total Issues: 63, Contributed to (last year): 26</desc>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  : 13894, Total PRs: 119, Total PRs Merged: 103, Total Issues: 63, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.39653680106099;
+        stroke-dashoffset: 84.62972884707163;
       }
     }
   
